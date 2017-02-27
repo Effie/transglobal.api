@@ -1,0 +1,12 @@
+target/
+logs/
+# MacOS directory store
+.DS_Store
+.idea
+*.iml
+*.css
+node_modules/
+node/
+etc/
+**/resources/app/**
+**/resources/css/css/**
